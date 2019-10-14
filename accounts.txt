@@ -1,0 +1,7 @@
+123451,1234,2316.25,True,3,Ionut Petrescu
+123452,1234,2455.4,True,3,Cristina Savin
+123453,1234,2685.15,True,3,Victor Rubio
+123454,1234,2210.05,True,3,Stan Daniel
+123455,1234,1653.55,True,3,Razvan Marin
+123456,1234,1261.15,True,3,Paun Eduard
+000000,0000,3998.45,True,3,Car hire

@@ -1,0 +1,61 @@
+123451|Initial balance: 2500
+123451|Car hire Mercedes Benz: 89.95
+123451|Incoming transfer from Victor Rubio: 1234
+123451|Transfer to Cristina Savin: 200
+123451|Car hire Ford Transit: 145.6
+123451|Car hire Volswagen Passat: 249.75
+123451|Car hire Volswagen Passat: 99.9
+123451|Car hire Fiat 500: 24.9
+123451|Car hire Volswagen Passat: 299.7
+123451|Car hire Ford Mondeo: 103.4
+123451|Car hire Toyota Aygo: 24.9
+123451|Car hire Opel Insignia: 43.7
+123451|Car hire Renault Megane: 56.55
+123451|Car hire Renault Fluence: 79.4
+123452|Initial balance: 2500
+123452|Incoming transfer from Ionut Petrescu: 200
+123452|Car hire Volswagen Passat: 99.9
+123452|Car hire Opel Astra: 24.7
+123452|Withdrawn 120
+123452|Lodged 2
+123452|Transfer to Car hire: 2
+123453|Initial balance: 300
+123453|Car hire Ford Transit: 291.2
+123453|Car hire Mercedes Benz: 539.7
+123453|Transfer to Ionut Petrescu: 1234
+123453|Lodged 4500
+123453|Car hire Volswagen Passat: 49.95
+123454|Initial balance: 2210.05
+123455|Initial balance: 2400.1
+123455|Withdrawn 200
+123455|Withdrawn 300
+123455|Transfer to Car hire: 246.55
+123456|Initial balance: 78
+123456|Car hire Audi A3: 133.65
+123456|Lodged 200
+123456|Car hire Volswagen Passat: 99.9
+123456|Car hire Ford Fiesta: 27.9
+123456|Car hire Renault Megane: 75.4
+000000|Initial balance: 1189.85
+000000|Payment from Ionut Petrescu 89.95
+000000|Payment from Victor Rubio 291.2
+000000|Payment from Paun Eduard 133.65
+000000|Payment from Victor Rubio 539.7
+000000|Payment from Ionut Petrescu 145.6
+000000|Payment from Paun Eduard 99.9
+000000|Payment from Ionut Petrescu 249.75
+000000|Payment from Ionut Petrescu 99.9
+000000|Payment from Cristina Savin 99.9
+000000|Payment from Victor Rubio 49.95
+000000|Payment from Ionut Petrescu 24.9
+000000|Payment from Ionut Petrescu 299.7
+000000|Payment from Ionut Petrescu 103.4
+000000|Payment from Paun Eduard 27.9
+000000|Payment from Paun Eduard 75.4
+000000|Payment from Ionut Petrescu 24.9
+000000|Payment from Cristina Savin 24.7
+000000|Payment from Ionut Petrescu 43.7
+000000|Payment from Ionut Petrescu 56.55
+000000|Payment from Ionut Petrescu 79.4
+000000|Incoming transfer from Cristina Savin: 2
+000000|Incoming transfer from Razvan Marin: 246.55

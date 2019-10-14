@@ -1,0 +1,28 @@
+car|Peugeot|107|998|petrol|True|8.75|2|4|Mini|False|01/01/0001 00:00:00|162D4554|20/03/2017 09:08:01|21/03/2017 09:08:01|01/12/2017 14:20:17|02/12/2017 14:20:17
+car|Peugeot|107|998|petrol|True|8.75|2|4|Mini|False|01/01/0001 00:00:00|162D4555
+car|Peugeot|107|998|petrol|True|8.75|2|4|Mini|False|01/01/0001 00:00:00|162D4556
+car|Ford|Ka|1200|petrol|True|9.75|2|4|Mini|False|01/01/0001 00:00:00|171D1114|17/03/2017 10:01:40|19/03/2017 10:01:40
+car|Ford|Ka|1200|petrol|True|9.75|2|4|Mini|False|01/01/0001 00:00:00|171D1115|17/03/2017 10:01:40|19/03/2017 10:01:40
+car|Nisan|Micra|998|petrol|True|9.95|2|4|Economy|False|01/01/0001 00:00:00|161D2420
+car|Nisan|Micra|998|petrol|True|9.95|2|4|Economy|False|01/01/0001 00:00:00|161D2421
+car|Opel|Astra|1400|diesel|True|12.35|4|5|Compact|False|01/01/0001 00:00:00|171D1111|19/11/2017 12:03:55|20/11/2017 12:03:55
+car|Opel|Astra|1400|diesel|True|12.35|4|5|Compact|False|01/01/0001 00:00:00|171D1112
+car|Opel|Astra|1400|diesel|True|12.35|4|5|Compact|False|01/01/0001 00:00:00|171D1113
+car|Toyota|Aygo|1000|petrol|True|12.45|2|4|Mini|False|01/01/0001 00:00:00|171D3214|09/03/2017 14:35:04|10/03/2017 14:35:04|31/03/2017 15:11:32|01/04/2017 15:11:32
+car|Toyota|Aygo|1000|petrol|True|12.45|2|4|Mini|False|01/01/0001 00:00:00|171D3215|19/11/2017 12:02:18|20/11/2017 12:02:18
+car|Toyota|Aygo|1000|petrol|True|12.45|2|4|Mini|False|01/01/0001 00:00:00|171D3216
+car|Ford|Fiesta|1200|diesel|True|13.95|2|4|Economy|False|01/01/0001 00:00:00|172D3361
+car|Ford|Fiesta|1200|diesel|True|13.95|2|4|Economy|False|01/01/0001 00:00:00|172D3362
+car|Renault|Fluence|1800|diesel|True|16.85|4|5|Intermediate|False|01/01/0001 00:00:00|172D3355
+car|Renault|Fluence|1800|diesel|True|16.85|4|5|Intermediate|False|01/01/0001 00:00:00|172D3356
+car|Toyota|Auris|1400|petrol|True|16.85|4|4|Compact|False|01/01/0001 00:00:00|172D3358
+car|Toyota|Auris|1400|petrol|True|16.85|4|4|Compact|False|01/01/0001 00:00:00|172D3359
+car|Toyota|Auris|1400|petrol|True|16.85|4|4|Compact|False|01/01/0001 00:00:00|172D3360
+car|Renault|Megane|1400|diesel|False|18.85|4|5|Compact|False|01/01/0001 00:00:00|172D3363|02/12/2017 09:15:56|04/12/2017 09:15:56
+car|Renault|Fluence|1800|petrol|False|19.85|4|5|Intermediate|False|01/01/0001 00:00:00|172D3357|13/12/2017 14:20:17|16/12/2017 14:20:17
+car|Opel|Insignia|1600|diesel|False|21.85|4|5|Standard|False|01/01/0001 00:00:00|172D3364|10/10/2018 16:47:44|11/10/2018 16:47:44
+car|Ford|Mondeo|1998|diesel|True|21.85|4|5|Intermediate|False|01/01/0001 00:00:00|172D3366
+car|Ford|Mondeo|1998|diesel|False|25.85|4|5|Intermediate|False|01/01/0001 00:00:00|172D3365
+van|Opel|Vivaro|1598|diesel|True|80.45|5200|True|s|False|01/01/0001 00:00:00|152D3215
+van|Ford|Transit|2000|diesel|True|145.6|9200|True|l|False|01/01/0001 00:00:00|13D2112
+van|Ford|Transit|2000|diesel|True|145.6|9200|True|l|False|01/01/0001 00:00:00|13D2113
